@@ -1,0 +1,14 @@
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.AssemblyInfoInputs.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.AssemblyInfo.cs
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.deps.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.runtimeconfig.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.runtimeconfig.dev.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.pdb
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.pdb
